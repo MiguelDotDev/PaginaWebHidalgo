@@ -1,0 +1,7 @@
+.Titulos-texto{
+    font-size: 2.5em;
+    color: var(--ColorRojoMain);
+    font-family: "Roboto", sans-serif;
+    font-weight: 350;
+    font-style: normal;
+}

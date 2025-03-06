@@ -1,0 +1,25 @@
+.nav-item-custom {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: black;
+    font-size: 1.2em;
+    border-bottom: 3px solid rgba(255, 255, 255, 0);
+}
+
+.nav-item-custom:hover {
+    color: var(--ColorRojoMain);
+    border-bottom: 2px solid var(--ColorRojoMain);
+}
+
+.lineaVerticalNav {
+    background-color: var(--ColorDoradoMain);
+    width: 2px;
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+footer{
+    background-color: var(--ColorRojoMain);
+}

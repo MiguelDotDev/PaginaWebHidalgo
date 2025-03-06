@@ -1,0 +1,42 @@
+#carruselInicio{
+    border-bottom: 8px solid var(--ColorDoradoMain);
+}
+.degradadoCarrusel{
+    background-color: #691b3256;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+    color: white;
+}
+.imgCarrusel{
+    background-color: bisque;
+}
+.carousel-control-prev, .carousel-control-next{
+    z-index: 200;
+}
+
+.cajaMenu1{
+    background-color: #7c3a4e1c;
+    border-bottom: 3px solid #7c3a4e;
+    color: var(--ColorDoradoMain);
+}
+.cajaMenu2{
+    background-color: #7c723a1c;
+    border-bottom: 3px solid #7c723a;
+    color: var(--ColorDoradoMain);
+}
+
+.cajaMenu1, .cajaMenu2{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+
+.cajaMenu1>img, .cajaMenu2>img{
+    width: 80px;
+}
+
+.cajaMenu1:hover, .cajaMenu2:hover{
+    cursor: pointer;
+}

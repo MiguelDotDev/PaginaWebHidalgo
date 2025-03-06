@@ -1,0 +1,20 @@
+body {
+    background-color: #ffffff;
+    opacity: 1;
+    background-image: repeating-radial-gradient(circle at 0 0, transparent 0, #ffffff 24px), repeating-linear-gradient(#e5e5e555, #e5e5e5);
+}
+
+.fondoDiv {
+    background-color: white;
+    box-shadow: 0px 0px 55px -4px rgba(0, 0, 0, 0.31);
+    -webkit-box-shadow: 0px 0px 55px -4px rgba(0, 0, 0, 0.31);
+    -moz-box-shadow: 0px 0px 55px -4px rgba(0, 0, 0, 0.31);
+}
+
+.cardEstiloDep{
+    border: none !important;
+}
+.cardEstiloDep > div > img{
+    width: 400px;
+    text-align: start;
+}
