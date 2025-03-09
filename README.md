@@ -58,6 +58,6 @@ Son los lenguajes, recursos y frameworks usados en el proyecto:
 
 1. Clonar o descargar este mismo repositorio:  
    ```bash
-   git clone https://github.com/MiguelDotDev/portal-ford.git
+   git clone https://github.com/MiguelDotDev/portal-gob-hidalgo.git
    ```
 1. Abrir index.html en un navegador.
